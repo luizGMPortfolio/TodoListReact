@@ -1,0 +1,36 @@
+#Filtrar{
+    display: flex;
+    justify-content: center;
+}
+
+#box1{
+    width: 90%; 
+    display: flex;
+    flex-direction: column;
+}
+
+.filtroSup{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+}
+.filtroInf{
+    display: flex;
+    gap: 50px;
+
+}
+select{
+    width: 150px;
+    height: 25px;
+}
+.button{
+    display: flex;
+    gap: 10px;
+}
+.button button{
+    width: 35px;
+    height: 25px;
+}
+h3{
+    font-size: 18px;
+}

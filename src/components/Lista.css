@@ -1,0 +1,36 @@
+#lista{
+    height: 60px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    padding:  0 10px;
+    border-radius: 10px;
+    background-color: #ccc;
+    width: 90%;
+    display: flex;
+    
+}
+
+.lista-left{
+    width: 70%;
+    font-size: 15px;
+    padding: 10px 0;
+    display: grid;
+    align-items: center;
+}
+.lista-right{
+    width: 30%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 5px;
+    
+}
+.check{
+    color: #40c80e;
+}
+.delete{
+    color: #dd0808;
+}

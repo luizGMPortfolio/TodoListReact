@@ -1,0 +1,15 @@
+#pesquisa{
+    display: flex;
+    justify-content: center;
+}
+#box{
+    width: 90%;
+}
+
+#inpPesq{
+    margin-top: 10px;
+    width: 90%;
+}
+#box input{
+    height: 25px;
+}
